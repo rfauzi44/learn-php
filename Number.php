@@ -17,4 +17,4 @@ var_dump(1_200_000.234);
 
 
 echo "Underscore int : ";
-var_dump(19223372036854775807);
+var_dump(192233720368547758);
